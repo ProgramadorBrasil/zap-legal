@@ -75,7 +75,7 @@ Feito com amor no Brasil. Sua mensagem, no tempo certo.
 ### Praticas de seguranca:
 - [x] Dados criptografados em transito (Google Play Billing)
 - [x] Voce pode solicitar que os dados sejam excluidos
-- URL de exclusao de dados: https://SEU-USUARIO.github.io/zap-legal/data-deletion.html
+- URL de exclusao de dados: https://programadorbrasil.github.io/zap-legal/data-deletion.html
 
 ### O app NAO:
 - [ ] Coleta dados de localizacao
